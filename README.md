@@ -1,10 +1,3 @@
-Sure! Here's a professional and attractive `README.md` file for your **Flask-based portfolio project with contact form and SMTP email integration**, ready to use for GitHub:
-
----
-
-### 📄 `README.md`
-
-```markdown
 # 💼 Flask Portfolio Website with Contact Form (SMTP Integration)
 
 This is a personal **portfolio website** built using **Flask** that showcases your profile and projects. It includes a fully functional **contact form** that sends emails using **SMTP** and custom **HTML email templates**.
@@ -102,5 +95,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ### 🌟 Show some love!
 
 If you liked this project, give it a ⭐ on GitHub!
-
-```
